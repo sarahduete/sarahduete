@@ -10,15 +10,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/PHP-D94F7D?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-D94F7D?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-D94F7D?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br><br>
-
 <a href="https://github.com/sarahduete">
 <img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -48,6 +39,10 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=php,css,html,sql,vscode,github&theme=light"/>
+
+<br>
+
+**PHP · CSS · HTML · SQL · VS Code · GitHub**
 
 </div>
 

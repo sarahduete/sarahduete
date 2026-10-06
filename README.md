@@ -12,10 +12,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-D94F7D?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-C95C83?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTMLF7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-B84D75?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
@@ -44,7 +42,7 @@ Atualmente, estou aprimorando meus conhecimentos através de estudos e projetos 
 
 <div align="center">
 
-`HTML5`   `CSS3`   `JavaScript`   `Git`   `GitHub`   `VS Code`
+`HTML`   `CSS`   `GitHub`   `VS Code`
 
 </div>
 
@@ -70,7 +68,7 @@ Projeto desenvolvido para apresentar uma marca de confeitaria através de uma in
 
 **Tecnologias**
 
-`HTML5` · `CSS3`
+`HTML` · `CSS`
 
 ---
 
@@ -122,7 +120,7 @@ Este perfil é um espaço para acompanhar minha evolução, compartilhar meus pr
 <img src="https://img.shields.io/badge/MEUS%20PROJETOS-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:sarah.duete@gmail.com">
 <img src="https://img.shields.io/badge/CONTATO-E8759B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

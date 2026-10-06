@@ -12,6 +12,13 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/PHP-C56A91?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<br><br>
+
 <a href="https://github.com/sarahduete">
 <img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -21,123 +28,3 @@
 </a>
 
 </div>
-
----
-
-## 🌷 Sobre mim
-
-Olá! Eu sou a **Sarah**, estudante e desenvolvedora em formação.
-
-Tenho interesse em **desenvolvimento web, tecnologia e criação de interfaces**. Gosto de transformar ideias em projetos que combinam funcionalidade, organização e uma identidade visual bem definida.
-
-Atualmente, estou aprimorando meus conhecimentos por meio de estudos e projetos próprios, buscando evoluir continuamente na área de tecnologia.
-
----
-
-## 💗 Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github,vscode,css,html,php&theme=light"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-C56A91?style=for-the-badge&logo=php&logoColor=white"/>
-
-</div>
-
----
-
-## 🎀 Projetos em destaque
-
-### Ge Cake — Bolos & Doces
-
-**Site institucional para uma confeitaria**
-
-Projeto desenvolvido para apresentar uma marca de confeitaria através de uma interface moderna, organizada e responsiva.
-
-**Destaques**
-
-* Interface responsiva
-* Identidade visual personalizada
-* Galeria de produtos
-* Apresentação da marca
-* Seção de diferenciais
-* Área de contato
-* Integração com WhatsApp
-
-**Tecnologias**
-
-`HTML` · `CSS` · `PHP`
-
----
-
-## 🌸 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarahduete&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D94F7D&icon_color=E8759B&text_color=704B5A&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahduete&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D94F7D&text_color=704B5A"/>
-
-</div>
-
----
-
-## 💕 Minha jornada
-
-<div align="center">
-
-**Aprender** → **Praticar** → **Criar** → **Evoluir**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/GITHUB-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20CODE-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-C56A91?style=for-the-badge&logo=php&logoColor=white"/>
-
-</div>
-
----
-
-## 🌷 Objetivos
-
-Meu objetivo é continuar evoluindo na área de tecnologia, aprofundar meus conhecimentos em desenvolvimento web e construir projetos cada vez mais completos.
-
-Este perfil é um espaço para acompanhar minha evolução, compartilhar meus projetos e registrar tudo o que venho aprendendo ao longo da minha jornada.
-
----
-
-<div align="center">
-
-## 💗 Sarah
-
-### Desenvolvendo ideias, um projeto de cada vez.
-
-<br>
-
-<a href="https://github.com/sarahduete">
-<img src="https://img.shields.io/badge/MEUS%20PROJETOS-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:sarah.duete@gmail.com">
-<img src="https://img.shields.io/badge/ENTRAR%20EM%20CONTATO-E8759B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sarahduete&label=VISITAS&color=D94F7D&style=flat-square"/>
-
-<br><br>
-
-♡ Obrigada por visitar meu perfil ♡
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=120&section=footer"/>

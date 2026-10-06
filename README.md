@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/CSS-D94F7D?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-D94F7D?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br><br>
 
@@ -47,15 +49,6 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 <img src="https://skillicons.dev/icons?i=php,css,html,sql,vscode,github&theme=light"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/PHP-D94F7D?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-D94F7D?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-D94F7D?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
-
 </div>
 
 ---
@@ -70,13 +63,13 @@ Projeto desenvolvido para criar uma presença digital para uma marca de confeita
 
 **Principais características:**
 
-* Interface responsiva
-* Identidade visual personalizada
-* Apresentação da marca
-* Galeria de produtos
-* Organização de informações
-* Área de contato
-* Integração com WhatsApp
+- Interface responsiva
+- Identidade visual personalizada
+- Apresentação da marca
+- Galeria de produtos
+- Organização de informações
+- Área de contato
+- Integração com WhatsApp
 
 **Tecnologias utilizadas:**
 
@@ -86,15 +79,15 @@ Projeto desenvolvido para criar uma presença digital para uma marca de confeita
 
 ## 🌸 O que estou aprendendo
 
-| 💻 Área             | 🌷 Foco                                    |
-| ------------------- | ------------------------------------------ |
-| Desenvolvimento Web | Criação de páginas e interfaces            |
-| HTML                | Estrutura de páginas                       |
-| CSS                 | Estilização e responsividade               |
-| PHP                 | Desenvolvimento back-end                   |
-| SQL                 | Banco de dados e consultas                 |
-| GitHub              | Organização e compartilhamento de projetos |
-| VS Code             | Desenvolvimento e edição de código         |
+| 💻 Área | 🌷 Foco |
+| --- | --- |
+| Desenvolvimento Web | Criação de páginas e interfaces |
+| HTML | Estrutura de páginas |
+| CSS | Estilização e responsividade |
+| PHP | Desenvolvimento back-end |
+| SQL | Banco de dados e consultas |
+| GitHub | Organização e compartilhamento de projetos |
+| VS Code | Desenvolvimento e edição de código |
 
 ---
 

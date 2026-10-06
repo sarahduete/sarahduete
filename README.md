@@ -48,6 +48,7 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=php,css,html,sql,vscode,github&theme=light"/>
+<img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 

@@ -12,9 +12,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/HTMLF7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-B84D75?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -26,23 +27,22 @@ Olá! Eu sou a **Sarah**, estudante e desenvolvedora em formação.
 
 Tenho interesse em **desenvolvimento web, tecnologia e criação de interfaces**. Gosto de transformar ideias em projetos que combinam funcionalidade, organização e uma identidade visual bem definida.
 
-Atualmente, estou aprimorando meus conhecimentos através de estudos e projetos próprios.
+Atualmente, estou aprimorando meus conhecimentos por meio de estudos e projetos próprios.
 
 ---
 
-## 💗 Tecnologias
+## 💗 Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=html,css,vscode,github&theme=light"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-`HTML`   `CSS`   `GitHub`   `VS Code`
+<img src="https://img.shields.io/badge/HTML5-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -68,11 +68,11 @@ Projeto desenvolvido para apresentar uma marca de confeitaria através de uma in
 
 **Tecnologias**
 
-`HTML` · `CSS`
+`HTML5` · `CSS3`
 
 ---
 
-## 🌸 GitHub Stats
+## 🌸 GitHub
 
 <div align="center">
 
@@ -92,9 +92,10 @@ Projeto desenvolvido para apresentar uma marca de confeitaria através de uma in
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LEARN-F7A8C4?style=for-the-badge&labelColor=F7A8C4&color=FFF5F8"/>
-<img src="https://img.shields.io/badge/CREATE-E8759B?style=for-the-badge&labelColor=E8759B&color=FFF5F8"/>
-<img src="https://img.shields.io/badge/GROW-D94F7D?style=for-the-badge&labelColor=D94F7D&color=FFF5F8"/>
+<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20CODE-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -118,10 +119,6 @@ Este perfil é um espaço para acompanhar minha evolução, compartilhar meus pr
 
 <a href="https://github.com/SEU_USUARIO">
 <img src="https://img.shields.io/badge/MEUS%20PROJETOS-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:sarah.duete@gmail.com">
-<img src="https://img.shields.io/badge/CONTATO-E8759B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>

@@ -12,8 +12,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -39,8 +39,8 @@ Atualmente, estou aprimorando meus conhecimentos por meio de estudos e projetos 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -68,7 +68,7 @@ Projeto desenvolvido para apresentar uma marca de confeitaria através de uma in
 
 **Tecnologias**
 
-`HTML5` · `CSS3`
+`HTML` · `CSS`
 
 ---
 

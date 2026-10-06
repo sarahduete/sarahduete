@@ -38,14 +38,15 @@ Atualmente, estou aprimorando meus conhecimentos por meio de estudos e projetos 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,vscode,github&theme=light"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,css,html,php&theme=light"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-C56A91?style=for-the-badge&logo=php&logoColor=white"/>
 
 </div>
 
@@ -71,11 +72,11 @@ Projeto desenvolvido para apresentar uma marca de confeitaria através de uma in
 
 **Tecnologias**
 
-`HTML` · `CSS`
+`HTML` · `CSS` · `PHP`
 
 ---
 
-## 🌸 GitHub
+## 🌸 GitHub Stats
 
 <div align="center">
 
@@ -95,10 +96,11 @@ Projeto desenvolvido para apresentar uma marca de confeitaria através de uma in
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20CODE-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20CODE-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-C56A91?style=for-the-badge&logo=php&logoColor=white"/>
 
 </div>
 

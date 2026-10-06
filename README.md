@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/PHP-C56A91?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
@@ -34,7 +35,7 @@
 
 Olá! Eu sou a **Sarah**, estudante de **Desenvolvimento de Sistemas** e desenvolvedora em formação.
 
-Tenho interesse em **desenvolvimento web, programação e criação de interfaces**. Gosto de transformar ideias em projetos funcionais, organizados e visualmente agradáveis.
+Tenho interesse em **desenvolvimento web, programação, banco de dados e criação de interfaces**. Gosto de transformar ideias em projetos funcionais, organizados e visualmente agradáveis.
 
 Atualmente, estou ampliando meus conhecimentos em desenvolvimento de sistemas por meio de estudos, projetos acadêmicos e projetos pessoais.
 
@@ -46,14 +47,15 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,css,html,vscode,github&theme=light"/>
+<img src="https://skillicons.dev/icons?i=php,css,html,sql,vscode,github&theme=light"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/PHP-C56A91?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-E8759B?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-F7A8C4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-E8759B?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-C95C83?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
@@ -94,6 +96,7 @@ Projeto desenvolvido para criar uma presença digital para uma marca de confeita
 | HTML                | Estrutura de páginas                       |
 | CSS                 | Estilização e responsividade               |
 | PHP                 | Desenvolvimento back-end                   |
+| SQL                 | Banco de dados e consultas                 |
 | GitHub              | Organização e compartilhamento de projetos |
 | VS Code             | Desenvolvimento e edição de código         |
 
@@ -120,7 +123,7 @@ Projeto desenvolvido para criar uma presença digital para uma marca de confeita
 
 ## 🌷 Objetivos
 
-Meu objetivo é continuar desenvolvendo minhas habilidades em tecnologia, aprofundar meus conhecimentos em **desenvolvimento web e programação** e criar projetos cada vez mais completos.
+Meu objetivo é continuar desenvolvendo minhas habilidades em tecnologia, aprofundar meus conhecimentos em **desenvolvimento web, programação e banco de dados** e criar projetos cada vez mais completos.
 
 Também busco oportunidades para aplicar meus conhecimentos em ambientes práticos, aprender com novos desafios e evoluir profissionalmente na área de tecnologia.
 
@@ -153,8 +156,6 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 <a href="mailto:sarah.duete@gmail.com">
 <img src="https://img.shields.io/badge/ENTRAR%20EM%20CONTATO-E8759B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
 
 <br><br>
 

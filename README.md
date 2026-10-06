@@ -157,8 +157,6 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sarahduete&label=VISITAS&color=D94F7D&style=flat-square"/>
-
 <br><br>
 
 ♡ Obrigada por visitar meu perfil ♡

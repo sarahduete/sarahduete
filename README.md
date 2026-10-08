@@ -144,8 +144,6 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 
 <br><br>
 
-<br><br>
-
 ♡ Obrigada por visitar meu perfil ♡
 
 <br><br>

@@ -146,7 +146,11 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 <br><br>
 
 <div align="center">
-  <img src="CAMINHO_DA_IMAGEM_NO_REPOSITORIO" alt="Obrigada pela visita" width="300">
+
+<img src="./assets/obrigada-visita.png"
+     alt="♡ Obrigada pela visita ♡"
+     width="300"/>
+
 </div>
 
 <br><br>

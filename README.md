@@ -147,9 +147,9 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 
 <div align="center">
 
-<img src="./assets/obrigada-visita.png"
-     alt="♡ Obrigada pela visita ♡"
-     width="300"/>
+<div align="center">
+  <img src="./assets/obrigada-visita.png" width="300" alt="Obrigada pela visita"/>
+</div>
 
 </div>
 

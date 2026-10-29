@@ -114,13 +114,25 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 
 ---
 
+
 ## 🌸 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/sarahduete">
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=sarahduete&show_icons=true&hide_border=true&title_color=D94F7D&icon_color=D94F7D&text_color=805D6D&bg_color=FFF4F8&hide_rank=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+</a>
+
+<a href="https://github.com/sarahduete">
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarahduete&layout=compact&langs_count=5&hide_border=true&title_color=D94F7D&text_color=805D6D&bg_color=FFF4F8" alt="Linguagens mais usadas"/>
+</a>
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarahduete&layout=compact&hide_border=true&title_color=D94F7D&text_color=777777&bg_color=FFFFFF&cache_seconds=86400" alt="Linguagens mais usadas pela Sarah"/>
+<img src="https://img.shields.io/badge/Feito%20com-♡%20e%20código-D94F7D?style=for-the-badge" alt="Feito com carinho e código"/>
 
 </div>
+
 
 
 ---

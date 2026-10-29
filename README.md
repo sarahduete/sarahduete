@@ -127,14 +127,6 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarahduete&layout=compact&langs_count=5&hide_border=true&title_color=D94F7D&text_color=805D6D&bg_color=FFF4F8" alt="Linguagens mais usadas"/>
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Feito%20com-♡%20e%20código-D94F7D?style=for-the-badge" alt="Feito com carinho e código"/>
-
-</div>
-
-
-
 ---
 
 ## 💗 Sarah

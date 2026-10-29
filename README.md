@@ -146,7 +146,7 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 <br><br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%99%A1%20obrigada%20pela%20visita%20%E2%99%A1-F7A8C4?style=flat-square&labelColor=F7A8C4&color=F7A8C4"/>
+  <img src="CAMINHO_DA_IMAGEM_NO_REPOSITORIO" alt="Obrigada pela visita" width="300">
 </div>
 
 <br><br>

@@ -145,7 +145,9 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 
 <br><br>
 
-♡ Obrigada por visitar meu perfil ♡
+<div align="center">
+  <p style="color: #D94F7D;">♡ 𝑜𝒷𝓇𝒾𝑔𝒶𝒹𝒶 𝓅𝑒𝓁𝒶 𝓋𝒾𝓈𝒾𝓉𝒶 ♡</p>
+</div>
 
 <br><br>
 

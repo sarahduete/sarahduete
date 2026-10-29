@@ -125,6 +125,18 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahduete&layout=compact&hide_border=true&title_color=D94F7D&text_color=777777&bg_color=FFFFFF"/>
 
 </div>
+## 🌸 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=sarahduete&show_icons=true&hide_border=true&title_color=D94F7D&icon_color=D94F7D&text_color=777777&bg_color=FFFFFF&cache_seconds=86400" alt="Estatísticas do GitHub da Sarah"/>
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarahduete&layout=compact&hide_border=true&title_color=D94F7D&text_color=777777&bg_color=FFFFFF&cache_seconds=86400" alt="Linguagens mais usadas pela Sarah"/>
+
+</div>
+
 
 ---
 

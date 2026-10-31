@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=210&section=header&text=Sarah&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
@@ -11,6 +12,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/PHP-D94F7D?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-D94F7D?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-D94F7D?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-D94F7D?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -47,7 +49,7 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,css,html,sql,vscode,github&theme=light"/>
+<img src="https://skillicons.dev/icons?i=php,python,css,html,mysql,vscode,github&theme=light"/>
 
 </div>
 
@@ -85,6 +87,7 @@ Projeto desenvolvido para criar uma presença digital para uma marca de confeita
 | HTML | Estrutura de páginas |
 | CSS | Estilização e responsividade |
 | PHP | Desenvolvimento back-end |
+| Python | Lógica de programação e desenvolvimento |
 | SQL | Banco de dados e consultas |
 | GitHub | Organização e compartilhamento de projetos |
 | VS Code | Desenvolvimento e edição de código |
@@ -114,7 +117,6 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 
 ---
 
-
 ## 🌸 GitHub Stats
 
 <div align="center">
@@ -126,6 +128,8 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 <a href="https://github.com/sarahduete">
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarahduete&layout=compact&langs_count=5&hide_border=true&title_color=D94F7D&text_color=805D6D&bg_color=FFF4F8" alt="Linguagens mais usadas"/>
 </a>
+
+</div>
 
 ---
 
@@ -145,11 +149,7 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 
 <br><br>
 
-<div align="center">
-
 ♡ 𝑜𝒷𝓇𝒾𝑔𝒶𝒹𝒶 𝓅𝑒𝓁𝒶 𝓋𝒾𝓈𝒾𝓉𝒶 ♡
-
-</div>
 
 <br><br>
 

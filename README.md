@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-D94F7D?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-D94F7D?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-D94F7D?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=php,python,css,html,sqlite,vscode,github&theme=light"/>
+<img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
 

@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=210&section=header&text=Sarah&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br><br>
-
-<a href="https://projetos-sarah.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/MEU%20PORTFÓLIO-D94F7D?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://github.com/sarahduete">
 <img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
@@ -45,22 +41,6 @@ Tenho interesse em **desenvolvimento web, programação, banco de dados e criaç
 Atualmente, estou ampliando meus conhecimentos em desenvolvimento de sistemas por meio de estudos, projetos acadêmicos e projetos pessoais.
 
 Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carreira como desenvolvedora.
-
----
-
-## 💻 Meu Portfólio
-
-<div align="center">
-
-<a href="https://projetos-sarah.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/ACESSE%20MEU%20PORTFÓLIO-D94F7D?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-Conheça meus projetos, minhas habilidades e minha evolução na área de desenvolvimento web!
-
-</div>
 
 ---
 
@@ -157,10 +137,6 @@ Também busco oportunidades para aplicar meus conhecimentos em ambientes prátic
 ### Desenvolvendo ideias, aprendendo todos os dias.
 
 <div align="center">
-
-<a href="https://projetos-sarah.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-D94F7D?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://github.com/sarahduete">
 <img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>

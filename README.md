@@ -107,9 +107,14 @@ Mais do que reunir trabalhos, ele foi pensado para transmitir minha personalidad
 <img src="https://img.shields.io/badge/ACESSAR%20MEU%20PORTFÓLIO-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+
+<div align="center">
+
 <a href="https://github.com/sarahduete/Projetos-Sarah">
-<img src="https://img.shields.io/badge/EXPLORAR%20CÓDIGO-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20NO%20GITHUB-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
 
 <br><br>
 

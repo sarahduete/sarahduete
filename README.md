@@ -56,25 +56,40 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 ## 🎀 Projetos
 
-### Ge Cake — Bolos & Doces
+🍰 Ge Cake — Bolos & Doces
 
-**Site institucional para uma confeitaria**
+Site institucional para uma confeitaria
 
 Projeto desenvolvido para criar uma presença digital para uma marca de confeitaria, utilizando uma identidade visual delicada e uma interface organizada.
 
-**Principais características:**
+Principais características:
 
-- Interface responsiva
-- Identidade visual personalizada
-- Apresentação da marca
-- Galeria de produtos
-- Organização de informações
-- Área de contato
-- Integração com WhatsApp
+Interface responsiva
 
-**Tecnologias utilizadas:**
+Identidade visual personalizada
 
-`HTML` · `CSS`
+Apresentação da marca
+
+Galeria de produtos
+
+Organização de informações
+
+Área de contato
+
+Integração com WhatsApp
+
+Tecnologias: HTML · CSS
+
+<div align="center">
+
+<a href="https://gecakes.netlify.app/">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://github.com/sarahduete/GeCakes">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 🍔 Portal Burger

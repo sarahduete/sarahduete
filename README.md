@@ -54,11 +54,61 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 ---
 
-## 🎀 Projetos
+🎀 Projetos
 
-Aqui estão alguns dos projetos que desenvolvi durante minha jornada de aprendizagem. Cada um possui uma proposta diferente e representa uma oportunidade de colocar meus conhecimentos em prática.
+Conheça alguns dos projetos que desenvolvi durante minha formação em Desenvolvimento de Sistemas, aplicando conhecimentos de desenvolvimento web, programação e criação de interfaces.
 
----
+<div align="center">
+
+<img src="https://img.shields.io/badge/⭐%20PROJETO%20EM%20DESTAQUE-F7A8C4?style=for-the-badge&logoColor=white"/>
+
+🌷 Portfólio Pessoal
+
+Meu espaço profissional na tecnologia
+
+</div>
+
+O Portfólio Pessoal é um projeto desenvolvido para apresentar minha trajetória na área de tecnologia, minhas habilidades e os trabalhos que venho construindo durante minha formação.
+
+A proposta é reunir minhas informações profissionais e meus projetos em um único ambiente, com uma identidade visual própria, navegação intuitiva e organização das informações.
+
+Mais do que apresentar meus trabalhos, o portfólio representa minha evolução como desenvolvedora e minha dedicação em transformar conhecimentos em projetos reais.
+
+Principais características:
+
+Apresentação pessoal e trajetória acadêmica.
+
+Seção sobre minhas habilidades e conhecimentos.
+
+Galeria de projetos desenvolvidos.
+
+Links para demonstrações e repositórios.
+
+Integração com minhas redes profissionais.
+
+Identidade visual personalizada em tons de rosa.
+
+Layout responsivo e organização das seções.
+
+Interface minimalista, delicada e intuitiva.
+
+Tecnologias utilizadas:
+
+HTML · CSS
+
+<div align="center">
+
+<a href="https://github.com/sarahduete/Projetos-Sarah">
+<img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/sarahduete/Projetos-Sarah">
+<img src="https://img.shields.io/badge/Ver%20repositório-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ### 🍰 Ge Cake — Bolos & Doces
 

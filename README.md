@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=210&section=header&text=Sarah&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-# 🌷
+# 🌷 Sarah
 
 ### Desenvolvedora em formação · Desenvolvimento Web
 

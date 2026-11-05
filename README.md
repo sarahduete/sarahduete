@@ -56,33 +56,31 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 ## 🎀 Projetos
 
-Aqui estão alguns dos projetos que desenvolvi durante minha jornada de aprendizagem. Cada um possui uma proposta diferente e me permite praticar conceitos de estruturação, estilização, programação e desenvolvimento de soluções para diferentes necessidades.
+Aqui estão alguns dos projetos que desenvolvi durante minha jornada de aprendizagem. Cada um possui uma proposta diferente e representa uma oportunidade de colocar meus conhecimentos em prática.
 
-🍰 Ge Cake — Bolos & Doces
+---
 
-Site institucional para uma confeitaria
+### 🍰 Ge Cake — Bolos & Doces
 
-O Ge Cake é um projeto de site institucional desenvolvido para uma marca de confeitaria. A proposta é apresentar a identidade da marca de maneira delicada e organizada, criando um espaço digital para divulgar seus produtos e facilitar o contato com os clientes.
+**Site institucional para uma confeitaria**
 
-O desenvolvimento priorizou uma identidade visual personalizada, com cores e elementos que combinam com a proposta da confeitaria, além de uma navegação simples e agradável.
+O Ge Cake é um projeto desenvolvido para criar uma presença digital para uma marca de confeitaria.
 
-Principais funcionalidades e características:
+A proposta é apresentar os produtos e a identidade da marca de maneira delicada, organizada e atrativa, proporcionando uma experiência agradável aos visitantes.
 
-Apresentação da marca e de sua identidade visual.
+**Principais características:**
 
-Galeria para exposição dos produtos.
+- Apresentação da marca e de sua identidade visual.
+- Galeria para exposição dos produtos.
+- Organização das informações da confeitaria.
+- Área de contato para facilitar a comunicação.
+- Integração com WhatsApp.
+- Layout responsivo para diferentes dispositivos.
+- Estilização personalizada de acordo com a proposta da marca.
 
-Organização das informações da confeitaria.
+**Tecnologias utilizadas:**
 
-Área de contato para facilitar a comunicação.
-
-Integração com WhatsApp.
-
-Layout responsivo para diferentes tamanhos de tela.
-
-Estilização personalizada para proporcionar uma experiência visual consistente.
-
-Tecnologias utilizadas: HTML · CSS
+`HTML` · `CSS`
 
 <div align="center">
 
@@ -95,31 +93,29 @@ Tecnologias utilizadas: HTML · CSS
 
 </div>
 
-🍔 Portal Burger
+---
 
-Site para uma hamburgueria
+### 🍔 Portal Burger
 
-O Portal Burger é um projeto de desenvolvimento web criado para apresentar uma hamburgueria por meio de uma plataforma digital. A proposta é reunir informações da marca e seus produtos em um ambiente visualmente atrativo e de fácil navegação.
+**Site para uma hamburgueria**
 
-O projeto trabalha a construção de uma identidade visual própria, explorando cores, organização dos elementos e estilização das páginas para transmitir a personalidade da marca.
+O Portal Burger é um projeto de desenvolvimento web criado para apresentar uma hamburgueria por meio de uma plataforma digital.
 
-Principais funcionalidades e características:
+O objetivo é reunir informações e produtos da marca em um ambiente visualmente atrativo, com uma identidade própria e navegação simples.
 
-Apresentação visual da hamburgueria.
+**Principais características:**
 
-Organização e divulgação dos produtos.
+- Apresentação visual da hamburgueria.
+- Organização e divulgação dos produtos.
+- Identidade visual personalizada.
+- Estruturação das páginas com HTML.
+- Estilização dos elementos com CSS.
+- Organização dos conteúdos para facilitar a navegação.
+- Adaptação da interface para diferentes dispositivos.
 
-Identidade visual personalizada.
+**Tecnologias utilizadas:**
 
-Estruturação das páginas com HTML.
-
-Estilização dos componentes com CSS.
-
-Organização dos conteúdos para facilitar a navegação.
-
-Adaptação da interface para diferentes dispositivos.
-
-Tecnologias utilizadas: HTML · CSS
+`HTML` · `CSS`
 
 <div align="center">
 
@@ -132,29 +128,28 @@ Tecnologias utilizadas: HTML · CSS
 
 </div>
 
-🚗 AutoTech
+---
 
-Site relacionado ao setor automotivo
+### 🚗 AutoTech
+
+**Site relacionado ao setor automotivo**
 
 O AutoTech é um projeto desenvolvido com foco no segmento automotivo, utilizando tecnologias de desenvolvimento web para estruturar e apresentar informações de maneira organizada.
 
-Durante sua construção, foram trabalhados conceitos de estruturação de páginas, estilização e desenvolvimento back-end, permitindo colocar em prática conhecimentos adquiridos ao longo da formação técnica.
+Durante sua construção, foram trabalhados conceitos de front-end e back-end, permitindo aplicar conhecimentos adquiridos ao longo da formação técnica.
 
-Principais características:
+**Principais características:**
 
-Estruturação de páginas com HTML.
+- Estruturação de páginas com HTML.
+- Desenvolvimento da identidade visual utilizando CSS.
+- Aplicação de PHP no desenvolvimento back-end.
+- Organização das informações e dos elementos da interface.
+- Prática de conceitos de programação.
+- Construção de uma aplicação voltada ao setor automotivo.
 
-Desenvolvimento da identidade visual utilizando CSS.
+**Tecnologias utilizadas:**
 
-Aplicação de PHP no desenvolvimento do projeto.
-
-Organização das informações e dos elementos da interface.
-
-Prática de conceitos de desenvolvimento web.
-
-Construção de uma aplicação voltada ao setor automotivo.
-
-Tecnologias utilizadas: HTML · CSS · PHP
+`HTML` · `CSS` · `PHP`
 
 <div align="center">
 

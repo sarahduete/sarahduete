@@ -80,12 +80,12 @@ Mais do que reunir trabalhos, ele foi pensado para transmitir minha personalidad
 
 ### ✨ O que você encontra no projeto?
 
-- **Apresentação pessoal:** informações sobre minha formação, interesses e trajetória na tecnologia.
-- **Sobre mim:** um pouco da minha história, objetivos e interesses profissionais.
-- **Projetos:** apresentação dos trabalhos desenvolvidos, com acesso aos sites e repositórios.
-- **Tecnologias:** demonstração das linguagens e ferramentas que utilizo.
-- **Formação:** informações sobre meus estudos no SESI e no SENAI.
-- **Contato:** links para minhas redes profissionais.
+- **Apresentação pessoal:** Informações sobre minha formação, interesses e trajetória na tecnologia.
+- **Sobre mim:** Minha história, objetivos e interesses profissionais.
+- **Projetos:** Apresentação dos trabalhos desenvolvidos, com acesso aos sites e repositórios.
+- **Tecnologias:** Demonstração das linguagens e ferramentas utilizadas.
+- **Formação:** Informações sobre meus estudos no SESI e no SENAI.
+- **Contato:** Acesso a links para minhas redes profissionais.
 
 ### 🎨 Identidade visual
 

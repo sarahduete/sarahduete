@@ -56,29 +56,33 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 ## 🎀 Projetos
 
+Aqui estão alguns dos projetos que desenvolvi durante minha jornada de aprendizagem. Cada um possui uma proposta diferente e me permite praticar conceitos de estruturação, estilização, programação e desenvolvimento de soluções para diferentes necessidades.
+
 🍰 Ge Cake — Bolos & Doces
 
 Site institucional para uma confeitaria
 
-Projeto desenvolvido para criar uma presença digital para uma marca de confeitaria, utilizando uma identidade visual delicada e uma interface organizada.
+O Ge Cake é um projeto de site institucional desenvolvido para uma marca de confeitaria. A proposta é apresentar a identidade da marca de maneira delicada e organizada, criando um espaço digital para divulgar seus produtos e facilitar o contato com os clientes.
 
-Principais características:
+O desenvolvimento priorizou uma identidade visual personalizada, com cores e elementos que combinam com a proposta da confeitaria, além de uma navegação simples e agradável.
 
-Interface responsiva
+Principais funcionalidades e características:
 
-Identidade visual personalizada
+Apresentação da marca e de sua identidade visual.
 
-Apresentação da marca
+Galeria para exposição dos produtos.
 
-Galeria de produtos
+Organização das informações da confeitaria.
 
-Organização de informações
+Área de contato para facilitar a comunicação.
 
-Área de contato
+Integração com WhatsApp.
 
-Integração com WhatsApp
+Layout responsivo para diferentes tamanhos de tela.
 
-Tecnologias: HTML · CSS
+Estilização personalizada para proporcionar uma experiência visual consistente.
+
+Tecnologias utilizadas: HTML · CSS
 
 <div align="center">
 
@@ -91,14 +95,31 @@ Tecnologias: HTML · CSS
 
 </div>
 
----
 🍔 Portal Burger
 
 Site para uma hamburgueria
 
-Projeto desenvolvido para apresentar uma hamburgueria por meio de um site com identidade visual própria e organização dos produtos.
+O Portal Burger é um projeto de desenvolvimento web criado para apresentar uma hamburgueria por meio de uma plataforma digital. A proposta é reunir informações da marca e seus produtos em um ambiente visualmente atrativo e de fácil navegação.
 
-Tecnologias: HTML · CSS
+O projeto trabalha a construção de uma identidade visual própria, explorando cores, organização dos elementos e estilização das páginas para transmitir a personalidade da marca.
+
+Principais funcionalidades e características:
+
+Apresentação visual da hamburgueria.
+
+Organização e divulgação dos produtos.
+
+Identidade visual personalizada.
+
+Estruturação das páginas com HTML.
+
+Estilização dos componentes com CSS.
+
+Organização dos conteúdos para facilitar a navegação.
+
+Adaptação da interface para diferentes dispositivos.
+
+Tecnologias utilizadas: HTML · CSS
 
 <div align="center">
 
@@ -115,9 +136,25 @@ Tecnologias: HTML · CSS
 
 Site relacionado ao setor automotivo
 
-Projeto desenvolvido com foco na apresentação de serviços e informações do segmento automotivo, utilizando tecnologias de desenvolvimento web.
+O AutoTech é um projeto desenvolvido com foco no segmento automotivo, utilizando tecnologias de desenvolvimento web para estruturar e apresentar informações de maneira organizada.
 
-Tecnologias: HTML · CSS · PHP
+Durante sua construção, foram trabalhados conceitos de estruturação de páginas, estilização e desenvolvimento back-end, permitindo colocar em prática conhecimentos adquiridos ao longo da formação técnica.
+
+Principais características:
+
+Estruturação de páginas com HTML.
+
+Desenvolvimento da identidade visual utilizando CSS.
+
+Aplicação de PHP no desenvolvimento do projeto.
+
+Organização das informações e dos elementos da interface.
+
+Prática de conceitos de desenvolvimento web.
+
+Construção de uma aplicação voltada ao setor automotivo.
+
+Tecnologias utilizadas: HTML · CSS · PHP
 
 <div align="center">
 

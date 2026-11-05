@@ -54,61 +54,70 @@ Meu objetivo é continuar evoluindo na área de tecnologia e construir uma carre
 
 ---
 
-🎀 Projetos
+## 🎀 Projetos
 
 Conheça alguns dos projetos que desenvolvi durante minha formação em Desenvolvimento de Sistemas, aplicando conhecimentos de desenvolvimento web, programação e criação de interfaces.
 
+---
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/⭐%20PROJETO%20EM%20DESTAQUE-F7A8C4?style=for-the-badge&logoColor=white"/>
+# 🌷 PORTFÓLIO PESSOAL
 
-🌷 Portfólio Pessoal
+### Meu espaço profissional na tecnologia
 
-Meu espaço profissional na tecnologia
+<img src="https://img.shields.io/badge/PROJETO%20PRINCIPAL-D94F7D?style=for-the-badge&logoColor=white"/>
+
+<br>
+
+**Apresentando minha trajetória, habilidades e projetos em desenvolvimento web.**
 
 </div>
 
-O Portfólio Pessoal é um projeto desenvolvido para apresentar minha trajetória na área de tecnologia, minhas habilidades e os trabalhos que venho construindo durante minha formação.
+O **Portfólio Pessoal** é um dos meus principais projetos, desenvolvido com o objetivo de apresentar minha identidade profissional, minha trajetória acadêmica e os conhecimentos que venho adquirindo na área de tecnologia.
 
-A proposta é reunir minhas informações profissionais e meus projetos em um único ambiente, com uma identidade visual própria, navegação intuitiva e organização das informações.
+Mais do que reunir trabalhos, ele foi pensado para transmitir minha personalidade como desenvolvedora, demonstrar minhas habilidades e facilitar o acesso aos projetos que construí.
 
-Mais do que apresentar meus trabalhos, o portfólio representa minha evolução como desenvolvedora e minha dedicação em transformar conhecimentos em projetos reais.
+### ✨ O que você encontra no projeto?
 
-Principais características:
+- **Apresentação pessoal:** informações sobre minha formação, interesses e trajetória na tecnologia.
+- **Sobre mim:** um pouco da minha história, objetivos e interesses profissionais.
+- **Projetos:** apresentação dos trabalhos desenvolvidos, com acesso aos sites e repositórios.
+- **Tecnologias:** demonstração das linguagens e ferramentas que utilizo.
+- **Formação:** informações sobre meus estudos no SESI e no SENAI.
+- **Contato:** links para minhas redes profissionais.
 
-Apresentação pessoal e trajetória acadêmica.
+### 🎨 Identidade visual
 
-Seção sobre minhas habilidades e conhecimentos.
+- Design feminino, sofisticado e minimalista.
+- Paleta de cores em tons de rosa.
+- Tipografia elegante e moderna.
+- Organização visual e navegação intuitiva.
+- Layout responsivo para diferentes dispositivos.
 
-Galeria de projetos desenvolvidos.
+### 💻 Tecnologias utilizadas
 
-Links para demonstrações e repositórios.
-
-Integração com minhas redes profissionais.
-
-Identidade visual personalizada em tons de rosa.
-
-Layout responsivo e organização das seções.
-
-Interface minimalista, delicada e intuitiva.
-
-Tecnologias utilizadas:
-
-HTML · CSS
+`HTML` · `CSS`
 
 <div align="center">
 
+<br>
+
 <a href="https://github.com/sarahduete/Projetos-Sarah">
-<img src="https://img.shields.io/badge/ACESSAR%20PORTFÓLIO-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ACESSAR%20MEU%20PORTFÓLIO-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sarahduete/Projetos-Sarah">
+<img src="https://img.shields.io/badge/EXPLORAR%20CÓDIGO-30252B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/sarahduete/Projetos-Sarah">
-<img src="https://img.shields.io/badge/Ver%20repositório-30252B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Um espaço que representa minha evolução, criatividade e paixão pela tecnologia.** ♡
 
 </div>
+
+---
 
 ### 🍰 Ge Cake — Bolos & Doces
 

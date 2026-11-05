@@ -77,6 +77,43 @@ Projeto desenvolvido para criar uma presença digital para uma marca de confeita
 `HTML` · `CSS`
 
 ---
+🍔 Portal Burger
+
+Site para uma hamburgueria
+
+Projeto desenvolvido para apresentar uma hamburgueria por meio de um site com identidade visual própria e organização dos produtos.
+
+Tecnologias: HTML · CSS
+
+<div align="center">
+
+<a href="https://portalburger.netlify.app/">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://github.com/sarahduete/Portal-Burguer">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+🚗 AutoTech
+
+Site relacionado ao setor automotivo
+
+Projeto desenvolvido com foco na apresentação de serviços e informações do segmento automotivo, utilizando tecnologias de desenvolvimento web.
+
+Tecnologias: HTML · CSS · PHP
+
+<div align="center">
+
+<a href="https://autotech-lgtx.onrender.com/index.php">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+<a href="https://github.com/sarahduete/Autotech">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ## 🌸 O que estou aprendendo
 

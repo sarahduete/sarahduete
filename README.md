@@ -193,6 +193,57 @@ O objetivo é reunir informações e produtos da marca em um ambiente visualment
 </div>
 
 ---
+###🐾 PetLife — Clínica Veterinária
+
+Site institucional para uma clínica veterinária
+
+O PetLife é um projeto de desenvolvimento web criado para apresentar uma clínica veterinária, destacando seus serviços, sua equipe e seu compromisso com o cuidado e o bem-estar animal.
+
+A proposta é transmitir confiança e acolhimento por meio de uma identidade visual moderna, com cores suaves e detalhes em laranja.
+
+Principais características:
+
+Apresentação da clínica e de sua identidade visual.
+
+Seção sobre a missão, visão e valores.
+
+Divulgação dos serviços veterinários.
+
+Galeria de fotos com momentos especiais.
+
+Área de depoimentos.
+
+Informações de contato e agendamento.
+
+Layout responsivo para diferentes dispositivos.
+
+Identidade visual:
+
+Azul-marinho e azul-claro.
+
+Detalhes em laranja.
+
+Design moderno, delicado e acolhedor.
+
+Elementos visuais relacionados ao universo pet.
+
+Tecnologias utilizadas:
+
+HTML · CSS
+
+<div align="center">
+
+<a href="LINK_DO_SITE_PETLIFE">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://petlife-cn97.onrender.com/">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ### 🚗 AutoTech
 

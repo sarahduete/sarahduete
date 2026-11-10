@@ -193,56 +193,41 @@ O objetivo é reunir informações e produtos da marca em um ambiente visualment
 </div>
 
 ---
-###🐾 PetLife — Clínica Veterinária
+---
 
-Site institucional para uma clínica veterinária
+### 🐾 PetLife
 
-O PetLife é um projeto de desenvolvimento web criado para apresentar uma clínica veterinária, destacando seus serviços, sua equipe e seu compromisso com o cuidado e o bem-estar animal.
+**Site para uma clínica veterinária**
 
-A proposta é transmitir confiança e acolhimento por meio de uma identidade visual moderna, com cores suaves e detalhes em laranja.
+O PetLife é um projeto de desenvolvimento web criado para apresentar uma clínica veterinária por meio de uma plataforma digital.
 
-Principais características:
+O objetivo é reunir informações sobre a clínica, seus serviços e cuidados oferecidos aos animais em um ambiente visualmente atrativo, acolhedor e de fácil navegação.
 
-Apresentação da clínica e de sua identidade visual.
+**Principais características:**
 
-Seção sobre a missão, visão e valores.
+- Apresentação visual da clínica veterinária.
+- Divulgação dos serviços oferecidos.
+- Seção sobre missão, visão e valores.
+- Galeria de fotos com momentos especiais.
+- Área de depoimentos.
+- Informações de contato e agendamento.
+- Identidade visual personalizada com tons de azul e detalhes em laranja.
+- Adaptação da interface para diferentes dispositivos.
 
-Divulgação dos serviços veterinários.
+**Tecnologias utilizadas:**
 
-Galeria de fotos com momentos especiais.
-
-Área de depoimentos.
-
-Informações de contato e agendamento.
-
-Layout responsivo para diferentes dispositivos.
-
-Identidade visual:
-
-Azul-marinho e azul-claro.
-
-Detalhes em laranja.
-
-Design moderno, delicado e acolhedor.
-
-Elementos visuais relacionados ao universo pet.
-
-Tecnologias utilizadas:
-
-HTML · CSS
+`HTML` · `CSS`
 
 <div align="center">
 
-<a href="LINK_DO_SITE_PETLIFE">
+<a href="https://petlife-cn97.onrender.com/">
 <img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
-
-<a href="https://petlife-cn97.onrender.com/">
+<a href="https://github.com/sarahduete/PetLife">
 <img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
 ---
 
 ### 🚗 AutoTech

@@ -287,7 +287,7 @@ A aplicação conta com uma área destinada aos clientes e um painel administrat
 
 **Tecnologias utilizadas:**
 
-`HTML` · `CSS` · `PHP` · `SQLite` · `Docker`
+`HTML` · `CSS` · `PHP` · `SQLite` 
 
 <div align="center">
 

@@ -262,6 +262,46 @@ Durante sua construção, foram trabalhados conceitos de front-end e back-end, p
 
 </div>
 
+
+---
+
+### 🌸 Derma Beauty
+
+**Sistema de gerenciamento para clínica de estética**
+
+O Derma Beauty é um projeto desenvolvido para facilitar a organização de uma clínica de estética, oferecendo uma plataforma para apresentação de tratamentos, cadastro de clientes e gerenciamento de agendamentos.
+
+A aplicação conta com uma área destinada aos clientes e um painel administrativo, integrando funcionalidades de front-end e back-end.
+
+**Principais características:**
+
+- Landing page para apresentação da plataforma.
+- Cadastro e login de clientes.
+- Autenticação de usuários.
+- Catálogo de tratamentos com informações e valores.
+- Agendamento online com seleção de datas e horários disponíveis.
+- Área do cliente para acompanhar agendamentos.
+- Painel administrativo para gerenciamento do sistema.
+- Banco de dados SQLite.
+- Interface responsiva com identidade visual personalizada.
+
+**Tecnologias utilizadas:**
+
+`HTML` · `CSS` · `PHP` · `SQLite` · `Docker`
+
+<div align="center">
+
+<a href="https://dermabeauty.onrender.com/">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sarahduete/DermaBeauty">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+
 ## 🌸 O que estou aprendendo
 
 | 💻 Área | 🌷 Foco |

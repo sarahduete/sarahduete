@@ -20,9 +20,6 @@
 
 <br><br>
 
-<a href="https://github.com/sarahduete">
-<img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="mailto:sarah.duete@gmail.com">
 <img src="https://img.shields.io/badge/Email-D94F7D?style=for-the-badge&logo=gmail&logoColor=white"/>

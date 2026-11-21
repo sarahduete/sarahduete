@@ -62,11 +62,9 @@ Conheça alguns dos projetos que desenvolvi durante minha formação em Desenvol
 
 <div align="center">
 
-# 🌷 PORTFÓLIO PESSOAL
+# 🌷 Portfólio Pessoal
 
 ### Meu espaço profissional na tecnologia
-
-<img src="https://img.shields.io/badge/PROJETO%20PRINCIPAL-D94F7D?style=for-the-badge&logoColor=white"/>
 
 <br>
 

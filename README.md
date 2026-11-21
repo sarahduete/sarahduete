@@ -17,10 +17,6 @@
 <img src="https://img.shields.io/badge/SQL-D94F7D?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-D94F7D?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-D94F7D?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br><br>
-
-
 <a href="mailto:sarah.duete@gmail.com">
 <img src="https://img.shields.io/badge/Email-D94F7D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>

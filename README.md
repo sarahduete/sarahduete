@@ -57,11 +57,7 @@ Conheça alguns dos projetos que desenvolvi durante minha formação em Desenvol
 
 # 🌷 Portfólio Pessoal
 
-### Meu espaço profissional na tecnologia
-
-<br>
-
-**Apresentando minha trajetória, habilidades e projetos em desenvolvimento web.**
+### Apresentando minha trajetória, habilidades e projetos em desenvolvimento web
 
 </div>
 

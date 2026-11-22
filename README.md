@@ -289,6 +289,107 @@ Durante sua construção, foram trabalhados conceitos de front-end e back-end, p
 
 ---
 
+🍔 Gross Burger
+Site institucional para hamburgueria
+
+O Gross Burger é um projeto desenvolvido para apresentar uma hamburgueria e sua identidade visual inspirada no estilo americano.
+
+A proposta foi criar uma página que valorizasse a marca e seus produtos, reunindo apresentação, cardápio, imagens e informações de contato em um único lugar.
+
+Principais características:
+- Apresentação da hamburgueria.
+- Seção sobre a marca.
+- Destaque para os hambúrgueres e o cardápio.
+- Galeria de imagens.
+- Links para redes sociais.
+- Informações de contato.
+- Menu de navegação com interação.
+- Layout responsivo.
+Tecnologias utilizadas:
+
+HTML · CSS · JavaScript
+<div align="center"><!-- Substitua os links abaixo pelos endereços publicados do site e do repositório. -->
+<a href="https://grossburgerbrasil.netlify.app/">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://github.com/sarahduete/GrossBurger">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>✨ MDS Studio Piercing
+Site institucional para estúdio de piercing
+
+O MDS Studio Piercing é um projeto desenvolvido com o objetivo de apresentar o estúdio, seus serviços e sua identidade visual por meio de uma página institucional.
+
+A proposta é reunir informações importantes em um só lugar, com uma apresentação que combine com a personalidade da marca e facilite o contato com o estúdio.
+
+Principais características:
+- Apresentação do estúdio.
+- Seção de serviços.
+- Galeria de trabalhos.
+- Informações sobre o atendimento.
+- Links para redes sociais.
+- Informações de contato.
+- Layout responsivo.
+Tecnologias utilizadas:
+
+HTML · CSS
+<div align="center"><!-- Substitua os links abaixo pelos endereços publicados do site e do repositório. -->
+<a href="https://mdsstudiopiercings.lovable.app/">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://github.com/sarahduete/StudioPiercings">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>🌮 Hermanito Mexicana
+Site institucional para restaurante mexicano
+
+O Hermanito Cocina Mexicana é um projeto desenvolvido para apresentar um restaurante de culinária mexicana, destacando seus pratos e sua identidade visual.
+
+A ideia foi criar uma página que valorizasse a proposta do restaurante e apresentasse opções como tacos, burritos, quesadillas e nachos de maneira organizada e atrativa.
+
+Principais características:
+- Apresentação do restaurante.
+- Destaque para os pratos mexicanos.
+- Seção de cardápio.
+- Galeria de imagens.
+- Informações de contato.
+- Links para redes sociais.
+- Identidade visual com referências à culinária mexicana.
+- Layout responsivo.
+Tecnologias utilizadas:
+
+HTML · CSS
+<div align="center"><!-- Substitua os links abaixo pelos endereços publicados do site e do repositório. -->
+<a href="https://hermanitocajamar.lovable.app/">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://github.com/sarahduete/HermanitoCajamar">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>☕ Mina Capelle Café & Cia
+Site institucional para cafeteria
+
+O Mina Capelle Café & Cia é um projeto desenvolvido para apresentar a cafeteria, sua identidade e seus produtos por meio de uma página institucional.
+
+A proposta é criar um espaço digital que reúna informações sobre a marca, apresente o cardápio e facilite o acesso dos clientes aos canais de contato.
+
+Principais características:
+- Apresentação da cafeteria.
+- Seção sobre a marca.
+- Destaque para produtos e cardápio.
+- Galeria de imagens.
+- Informações de localização.
+- Links para redes sociais.
+- Informações de contato.
+- Layout responsivo.
+Tecnologias utilizadas:
+
+HTML · CSS
+<div align="center"><!-- Substitua os links abaixo pelos endereços publicados do site e do repositório. -->
+<a href="https://minacapelle.lovable.app/">
+<img src="https://img.shields.io/badge/Visualizar%20site-D94F7D?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://github.com/sarahduete/MinaCapelle">
+<img src="https://img.shields.io/badge/Ver%20no%20GitHub-30252B?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>
+
 
 ## 🌸 O que estou aprendendo
 

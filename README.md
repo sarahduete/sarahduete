@@ -353,11 +353,11 @@ HTML · CSS
 </a></div>
 
 ---
-### 🌮 Hermanito Mexicana
+### 🌮 Hermanito Comida Mexicana
 
 **Site institucional para restaurante mexicano**
 
-O Hermanito Mexicana é um projeto desenvolvido para apresentar um restaurante de culinária mexicana, destacando seus pratos e sua identidade visual.
+O Hermanito Comida Mexicana é um projeto desenvolvido para apresentar um restaurante de culinária mexicana, destacando seus pratos e sua identidade visual.
 
 A ideia foi criar uma página que valorizasse a proposta do restaurante e apresentasse opções como tacos, burritos, quesadillas e nachos de maneira organizada e atrativa.
 
